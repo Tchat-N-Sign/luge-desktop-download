@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "notes": "",
+  "pub_date": "2026-05-24T18:02:35.302Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdVlHYlQyRGExbTEyR0VlTldmWVF0UGx4Nm55cnU5VUNEMzExOExCUDMxWE82VTlTK1FySE9kbzBhQUhwbis4U0svbFhjS3REenBaVGJPU2FPU1MvQmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjQ1NzUwCWZpbGU6THVnZSBEZXNrdG9wLmFwcC50YXIuZ3oKMjZkdXJuWnEzbDBmRm5kZ1ZhWk5TbDVxaGdoZUVXdVBTYlJBRlhrUFk4T2VNZ2dZdDkxMG1ZeTBKTGJnVkRmQjBvNHNPYTR6Y3RvVXZFa1MxMFNTRFE9PQo=",
+      "url": "https://github.com/Tchat-N-Sign/luge-desktop/releases/latest/download/Luge.Desktop_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdVlHYlQyRGExbTEyR0VlTldmWVF0UGx4Nm55cnU5VUNEMzExOExCUDMxWE82VTlTK1FySE9kbzBhQUhwbis4U0svbFhjS3REenBaVGJPU2FPU1MvQmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjQ1NzUwCWZpbGU6THVnZSBEZXNrdG9wLmFwcC50YXIuZ3oKMjZkdXJuWnEzbDBmRm5kZ1ZhWk5TbDVxaGdoZUVXdVBTYlJBRlhrUFk4T2VNZ2dZdDkxMG1ZeTBKTGJnVkRmQjBvNHNPYTR6Y3RvVXZFa1MxMFNTRFE9PQo=",
+      "url": "https://github.com/Tchat-N-Sign/luge-desktop/releases/latest/download/Luge.Desktop_universal.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdVlHYlQyRGExbTEyR0VlTldmWVF0UGx4Nm55cnU5VUNEMzExOExCUDMxWE82VTlTK1FySE9kbzBhQUhwbis4U0svbFhjS3REenBaVGJPU2FPU1MvQmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjQ1NzUwCWZpbGU6THVnZSBEZXNrdG9wLmFwcC50YXIuZ3oKMjZkdXJuWnEzbDBmRm5kZ1ZhWk5TbDVxaGdoZUVXdVBTYlJBRlhrUFk4T2VNZ2dZdDkxMG1ZeTBKTGJnVkRmQjBvNHNPYTR6Y3RvVXZFa1MxMFNTRFE9PQo=",
+      "url": "https://github.com/Tchat-N-Sign/luge-desktop/releases/latest/download/Luge.Desktop_universal.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdVlHYlQyRGExbTEyR0VlTldmWVF0UGx4Nm55cnU5VUNEMzExOExCUDMxWE82VTlTK1FySE9kbzBhQUhwbis4U0svbFhjS3REenBaVGJPU2FPU1MvQmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjQ1NzUwCWZpbGU6THVnZSBEZXNrdG9wLmFwcC50YXIuZ3oKMjZkdXJuWnEzbDBmRm5kZ1ZhWk5TbDVxaGdoZUVXdVBTYlJBRlhrUFk4T2VNZ2dZdDkxMG1ZeTBKTGJnVkRmQjBvNHNPYTR6Y3RvVXZFa1MxMFNTRFE9PQo=",
+      "url": "https://github.com/Tchat-N-Sign/luge-desktop/releases/latest/download/Luge.Desktop_universal.app.tar.gz"
+    }
+  }
+}
