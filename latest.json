@@ -1,23 +1,51 @@
 {
-  "version": "0.3.3",
+  "version": "0.4.0",
   "notes": "",
-  "pub_date": "2026-05-24T20:59:40.996Z",
+  "pub_date": "2026-05-28T21:13:37.878Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdWVVSGtaV2FnaDdTNmZFNXdZdjdkVkJJRnJSZlpPM01POEtMTFRESGEwaTRZK24xZmpFWDVYc09xWms3ZTZkTUZpWFpUSWxTM2hnaEVnN3ZnbnNsZWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjU2Mzc3CWZpbGU6THVnZSBEZXNrdG9wLmFwcC50YXIuZ3oKWlRhNFdnN2hDb0dKM1Z6L0ZIWUxwOE1YR2tCaE1WMTFkR1UxTm5HN0xsNnVtUjdRRFlLTUdmNFN5TGtqRGVTazkwK056S0pHTDA1a1RNc1daSitFQ1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdWRQVHBIeURBY3U4ZUF0RURWV1RKM2Voa1MvYW5mR3FKblBhOXpJNUIwcXM0UnNWcXBUaVF2Q0xBZGJsc0p0YUIvNFdnQ2NScU5hWVZ5cUhIeGpEa2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDAyNTUyCWZpbGU6THVnZSBEZXNrdG9wLmFwcC50YXIuZ3oKWDFOVjdzY0dqOVgxTFRvSHVFSGRaM2htMVZ3V2Y3dmk4M3ZCRy9aTUx5dnAvL0dydUpkWHNKWTRqOE1pTDJiU2daK25Cb0xWRHFCREhKVnh3c2dmQUE9PQo=",
       "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/Luge.Desktop_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdWVVSGtaV2FnaDdTNmZFNXdZdjdkVkJJRnJSZlpPM01POEtMTFRESGEwaTRZK24xZmpFWDVYc09xWms3ZTZkTUZpWFpUSWxTM2hnaEVnN3ZnbnNsZWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjU2Mzc3CWZpbGU6THVnZSBEZXNrdG9wLmFwcC50YXIuZ3oKWlRhNFdnN2hDb0dKM1Z6L0ZIWUxwOE1YR2tCaE1WMTFkR1UxTm5HN0xsNnVtUjdRRFlLTUdmNFN5TGtqRGVTazkwK056S0pHTDA1a1RNc1daSitFQ1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdWRQVHBIeURBY3U4ZUF0RURWV1RKM2Voa1MvYW5mR3FKblBhOXpJNUIwcXM0UnNWcXBUaVF2Q0xBZGJsc0p0YUIvNFdnQ2NScU5hWVZ5cUhIeGpEa2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDAyNTUyCWZpbGU6THVnZSBEZXNrdG9wLmFwcC50YXIuZ3oKWDFOVjdzY0dqOVgxTFRvSHVFSGRaM2htMVZ3V2Y3dmk4M3ZCRy9aTUx5dnAvL0dydUpkWHNKWTRqOE1pTDJiU2daK25Cb0xWRHFCREhKVnh3c2dmQUE9PQo=",
       "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/Luge.Desktop_universal.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdWVVSGtaV2FnaDdTNmZFNXdZdjdkVkJJRnJSZlpPM01POEtMTFRESGEwaTRZK24xZmpFWDVYc09xWms3ZTZkTUZpWFpUSWxTM2hnaEVnN3ZnbnNsZWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjU2Mzc3CWZpbGU6THVnZSBEZXNrdG9wLmFwcC50YXIuZ3oKWlRhNFdnN2hDb0dKM1Z6L0ZIWUxwOE1YR2tCaE1WMTFkR1UxTm5HN0xsNnVtUjdRRFlLTUdmNFN5TGtqRGVTazkwK056S0pHTDA1a1RNc1daSitFQ1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdWRQVHBIeURBY3U4ZUF0RURWV1RKM2Voa1MvYW5mR3FKblBhOXpJNUIwcXM0UnNWcXBUaVF2Q0xBZGJsc0p0YUIvNFdnQ2NScU5hWVZ5cUhIeGpEa2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDAyNTUyCWZpbGU6THVnZSBEZXNrdG9wLmFwcC50YXIuZ3oKWDFOVjdzY0dqOVgxTFRvSHVFSGRaM2htMVZ3V2Y3dmk4M3ZCRy9aTUx5dnAvL0dydUpkWHNKWTRqOE1pTDJiU2daK25Cb0xWRHFCREhKVnh3c2dmQUE9PQo=",
       "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/Luge.Desktop_universal.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdWVVSGtaV2FnaDdTNmZFNXdZdjdkVkJJRnJSZlpPM01POEtMTFRESGEwaTRZK24xZmpFWDVYc09xWms3ZTZkTUZpWFpUSWxTM2hnaEVnN3ZnbnNsZWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjU2Mzc3CWZpbGU6THVnZSBEZXNrdG9wLmFwcC50YXIuZ3oKWlRhNFdnN2hDb0dKM1Z6L0ZIWUxwOE1YR2tCaE1WMTFkR1UxTm5HN0xsNnVtUjdRRFlLTUdmNFN5TGtqRGVTazkwK056S0pHTDA1a1RNc1daSitFQ1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdWRQVHBIeURBY3U4ZUF0RURWV1RKM2Voa1MvYW5mR3FKblBhOXpJNUIwcXM0UnNWcXBUaVF2Q0xBZGJsc0p0YUIvNFdnQ2NScU5hWVZ5cUhIeGpEa2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDAyNTUyCWZpbGU6THVnZSBEZXNrdG9wLmFwcC50YXIuZ3oKWDFOVjdzY0dqOVgxTFRvSHVFSGRaM2htMVZ3V2Y3dmk4M3ZCRy9aTUx5dnAvL0dydUpkWHNKWTRqOE1pTDJiU2daK25Cb0xWRHFCREhKVnh3c2dmQUE9PQo=",
       "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/Luge.Desktop_universal.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdVJ0MlppSEVYWC8waS9wd2gwNGV4bjhBQU8ydThaSXJmd2dDZDhZQ2Y2K2hTSmNCakl1WVRzTzBXRSthL2pQbWNoRHpabXVrdFJ5dE9QZ21OUDR1WmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDAyNjA5CWZpbGU6THVnZSBEZXNrdG9wXzAuNC4wX2FtZDY0LkFwcEltYWdlCmhSNmxTUjlTcVVoZTkwSVNRMWFFcXZvVmFzVi8zQWVMaWJPK3A4ZnRuMitlTExKQ2pTVlh2K0J0NElPdVQwcXlmQ0NLT2ZUVTF1cUdhdjNqOVZVSER3PT0K",
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/Luge.Desktop_0.4.0_amd64.AppImage"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdVJ0MlppSEVYWC8waS9wd2gwNGV4bjhBQU8ydThaSXJmd2dDZDhZQ2Y2K2hTSmNCakl1WVRzTzBXRSthL2pQbWNoRHpabXVrdFJ5dE9QZ21OUDR1WmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDAyNjA5CWZpbGU6THVnZSBEZXNrdG9wXzAuNC4wX2FtZDY0LkFwcEltYWdlCmhSNmxTUjlTcVVoZTkwSVNRMWFFcXZvVmFzVi8zQWVMaWJPK3A4ZnRuMitlTExKQ2pTVlh2K0J0NElPdVQwcXlmQ0NLT2ZUVTF1cUdhdjNqOVZVSER3PT0K",
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/Luge.Desktop_0.4.0_amd64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdWVMN1hXcEdPSlhSS2lQSko2eGdyVWNqV256OWJSbmZOa0xYZEdxaUkxaHNqaHZsQyt5VTBrdEd3OFZYYmZycGhoZ25hOWVKU0hpVVhOV0lRRjlNK1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDAyNjA5CWZpbGU6THVnZSBEZXNrdG9wXzAuNC4wX2FtZDY0LmRlYgpINXA1WlkrbURJTkQ3Y1o4bUczOEFreWpyY2E1emFNajJycUJCVWRmT0E0WVNrcmI3ZmxWN1hCRzkyR01Rc2wwajhxV2pUblZnY09TMjRERVpmRnJDZz09Cg==",
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/Luge.Desktop_0.4.0_amd64.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdVlsUXlCK09vUWlNYXRmbWtRMjJMSC9PbzZpc2FJNDBXOXMxWXpiMEt1V29UNG5jcmhCQkpZOUo0SmFrbFNqbmRFNnNQWElLM1NseUlnYnJHNVMzVkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDAyNjA5CWZpbGU6THVnZSBEZXNrdG9wLTAuNC4wLTEueDg2XzY0LnJwbQpiUE4yM2dYYmNjMzRLZ1NmcWxsV21wTHJpRktOVWlqS29yZjVRWkxXbVlFaTh4Qy9MZEhYODFlSU9LdXJkZEphQW5WMXFkN2ZqMEhabStwOFh2UFZBQT09Cg==",
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/Luge.Desktop-0.4.0-1.x86_64.rpm"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdWZSZ21DbVdmMmFOUWFOV2JmbUR5WjdheHpKQXFNRzFYRCtieXExeWRwOEwzSk5VcElldEYySFpnZUJxYzFJWGNza2tNTVI0NkRuNTY5bUFINUVGNFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDAyODE0CWZpbGU6THVnZSBEZXNrdG9wXzAuNC4wX3g2NF9lbi1VUy5tc2kKOVdxTjl1aDNaWlAwbUlUNW5ENkQyc1FjM2pXV3hnVSt6M0V1Nm1vbU9kbGM0SFB3NlI3UnhtdXV1c3ZlNHVhb1ZieTdGeE9BVnc3ajdjbGlvaXkwQXc9PQo=",
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/Luge.Desktop_0.4.0_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdWZSZ21DbVdmMmFOUWFOV2JmbUR5WjdheHpKQXFNRzFYRCtieXExeWRwOEwzSk5VcElldEYySFpnZUJxYzFJWGNza2tNTVI0NkRuNTY5bUFINUVGNFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDAyODE0CWZpbGU6THVnZSBEZXNrdG9wXzAuNC4wX3g2NF9lbi1VUy5tc2kKOVdxTjl1aDNaWlAwbUlUNW5ENkQyc1FjM2pXV3hnVSt6M0V1Nm1vbU9kbGM0SFB3NlI3UnhtdXV1c3ZlNHVhb1ZieTdGeE9BVnc3ajdjbGlvaXkwQXc9PQo=",
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/Luge.Desktop_0.4.0_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdWFCQ0Irb3BUMnpVREo5ZS9iTmFES1dvUjNnOXJjWnhYeEg5b2FNY0twS2psL0sxaHpiQTlsb2VNV29xOFJ2K0dQaGg2THdNNUFhcWE4Mmo1V20wTWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDAyODE0CWZpbGU6THVnZSBEZXNrdG9wXzAuNC4wX3g2NC1zZXR1cC5leGUKNFVHQW9zVWxzTWpNWk51RlE2SmU4V1RnSUQzdFB6aVpVVG51Sm45L3JnQkFjWEFoUTdtNWFIbDkySEFiWnpOc1FmRDM1Zmttd08weWJFMlV0ektOQWc9PQo=",
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/Luge.Desktop_0.4.0_x64-setup.exe"
     }
   }
 }
