@@ -1,26 +1,70 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Luge Desktop — Downloads</title>
-    <style>
-      body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-        max-width: 640px;
-        margin: 12vh auto;
-        padding: 0 24px;
-        color: #1a1a1a;
-        line-height: 1.55;
-      }
-      a { color: #dc2626; }
-      .muted { color: #6b6b6b; font-size: 0.9rem; }
-    </style>
-  </head>
-  <body>
-    <h1>Luge Desktop</h1>
-    <p>Installers and the auto-update manifest are published here on each release.</p>
-    <p class="muted">Downloads appear after the first release ships.</p>
-    <p><a href="latest.json">latest.json</a> — auto-update manifest</p>
-  </body>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Luge Desktop — Download</title>
+<style>
+  :root {
+    --bg: #0b0b0d; --card: #16161a; --text: #f5f5f7; --muted: #9a9aa2;
+    --accent: #dc2626; --border: #26262c;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text); line-height: 1.5;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 8vh 24px 6vh; }
+  .brand { display: flex; flex-direction: column; align-items: center; text-align: center; gap: 14px; }
+  .brand img { width: 88px; height: 88px; border-radius: 20px; }
+  h1 { margin: 0; font-size: 2rem; letter-spacing: -0.02em; }
+  .ver {
+    display: inline-block; margin-top: 8px; padding: 2px 12px; border-radius: 999px;
+    border: 1px solid var(--border); color: var(--muted); font-size: 0.85rem;
+  }
+  .tag { color: var(--muted); margin: 10px 0 0; }
+  .platforms { display: grid; gap: 16px; margin-top: 44px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 20px 22px; }
+  .card h2 { margin: 0 0 14px; font-size: 1.05rem; }
+  .dls { display: flex; flex-wrap: wrap; gap: 10px; }
+  .btn {
+    display: inline-flex; align-items: center; padding: 10px 16px; border-radius: 10px;
+    background: var(--accent); color: #fff; text-decoration: none; font-weight: 600;
+    font-size: 0.92rem; border: 1px solid transparent;
+  }
+  .btn.alt { background: transparent; border-color: var(--border); color: var(--text); }
+  .btn:hover { filter: brightness(1.08); }
+  footer { text-align: center; margin-top: 48px; color: var(--muted); font-size: 0.85rem; }
+  footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="brand">
+      <img src="luge-logo.png" alt="Luge Desktop" />
+      <div>
+        <h1>Luge Desktop</h1>
+        <div class="ver">Version 0.8.0</div>
+      </div>
+      <p class="tag">Your meetings, recorded and summarized — automatically.</p>
+    </header>
+    <main class="platforms">
+      <section class="card"><h2>macOS</h2>
+        <div class="dls"><a class="btn" href="releases/Luge.Desktop_0.8.0_universal.dmg">macOS (.dmg)</a></div>
+      </section>
+      <section class="card"><h2>Windows</h2>
+        <div class="dls"><a class="btn" href="releases/Luge.Desktop_0.8.0_x64-setup.exe">Windows installer (.exe)</a><a class="btn alt" href="releases/Luge.Desktop_0.8.0_x64_en-US.msi">Windows (.msi)</a></div>
+      </section>
+      <section class="card"><h2>Linux</h2>
+        <div class="dls"><a class="btn" href="releases/Luge.Desktop_0.8.0_amd64.AppImage">Linux (AppImage)</a><a class="btn alt" href="releases/Luge.Desktop_0.8.0_amd64.deb">Debian / Ubuntu (.deb)</a><a class="btn alt" href="releases/Luge.Desktop-0.8.0-1.x86_64.rpm">Fedora / RHEL (.rpm)</a></div>
+      </section>
+    </main>
+    <footer>
+      Older builds live on the
+      <a href="https://github.com/Tchat-N-Sign/luge-desktop-download">releases repo</a>.
+      &middot; <a href="latest.json">latest.json</a>
+    </footer>
+  </div>
+</body>
 </html>
