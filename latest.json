@@ -1,0 +1,39 @@
+{
+  "version": "0.26.0",
+  "notes": "",
+  "pub_date": "2026-09-11T21:59:06.271Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdWZqTXptM2RVM1gvQm9zTDNGaEU5WTI4V0taKzA0S3JHS3Qvc3hRYnIyNndyWWxIVlBrSWhHbGlab3NPOGFTSlU4cFhNUVZlVm1IeTNvbG9NNUlxZmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTYyMjEyCWZpbGU6THVnZSBEZXNrdG9wLmFwcC50YXIuZ3oKWE5EV2FqY0NLd25KZkZSbjFZSnpDMXRZYk42MERCVTFCQTE1bVp6RmVTQ3VsY1YyeklvQm1QMjhFTDFjMjE3WnZNdU1GeWt6eTdGbGZPNm5xWlQ0QXc9PQo=",
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/desktop/Luge.Desktop_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdWZqTXptM2RVM1gvQm9zTDNGaEU5WTI4V0taKzA0S3JHS3Qvc3hRYnIyNndyWWxIVlBrSWhHbGlab3NPOGFTSlU4cFhNUVZlVm1IeTNvbG9NNUlxZmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTYyMjEyCWZpbGU6THVnZSBEZXNrdG9wLmFwcC50YXIuZ3oKWE5EV2FqY0NLd25KZkZSbjFZSnpDMXRZYk42MERCVTFCQTE1bVp6RmVTQ3VsY1YyeklvQm1QMjhFTDFjMjE3WnZNdU1GeWt6eTdGbGZPNm5xWlQ0QXc9PQo=",
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/desktop/Luge.Desktop_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdVpkeGhjT2twRUU5YjhGM2xnQXVlNjlUUXZrOEs3b1VTR0tqNzVwbHd4S2pJVjQ5eWVHU0Ryb1YwUjU1U1hVWDl5bTlCSW9sdENRSytYb1ArV3EvMWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTYzNzMxCWZpbGU6THVnZSBEZXNrdG9wXzAuMjYuMF94NjRfZW4tVVMubXNpCms1OVpieG9sZHhTRXZsWktQNjFKUDV4cGdqRDVBZ2FiMklMUU10ZkJEVWtQVnRrSUNXZ2NGVGM3YUlkeWVBYmZrNEk3ZUx4Qy9LWWhEQ3ltbWFhVUNnPT0K",
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/desktop/Luge.Desktop_0.26.0_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdVpkeGhjT2twRUU5YjhGM2xnQXVlNjlUUXZrOEs3b1VTR0tqNzVwbHd4S2pJVjQ5eWVHU0Ryb1YwUjU1U1hVWDl5bTlCSW9sdENRSytYb1ArV3EvMWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTYzNzMxCWZpbGU6THVnZSBEZXNrdG9wXzAuMjYuMF94NjRfZW4tVVMubXNpCms1OVpieG9sZHhTRXZsWktQNjFKUDV4cGdqRDVBZ2FiMklMUU10ZkJEVWtQVnRrSUNXZ2NGVGM3YUlkeWVBYmZrNEk3ZUx4Qy9LWWhEQ3ltbWFhVUNnPT0K",
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/desktop/Luge.Desktop_0.26.0_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdVJqVWd1ZFowcEp2M1pza2ZLRWZNQlN1Z1hqTXlqUmp3RVEzN0tQKzlCWHZscjRBd3UvNHdJdUd0WXZaeWhTa3pVWDJvMGRPMHg2MDQyaG1OTzIzRndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTYzNzMxCWZpbGU6THVnZSBEZXNrdG9wXzAuMjYuMF94NjQtc2V0dXAuZXhlCk15RjJqSFZQNWYyNlZrRlF2NzFhbjlpYmcrZEJBQUhJQXJqK1RBY3J5c2ZZZEdLU0tzTlRISEJJTnY2RmZkcFZjWC9YczAzdU9FQmZaS0FPc1NEWkJBPT0K",
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/desktop/Luge.Desktop_0.26.0_x64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdVp0WEN3bUNQZ1d3TFREYVhNeS8wUDNwNkZDY0gzb3pwbWoyamI3UjBrZUFxOTc0S2dVeVE2YjBPekRoeHVSK0YyWC9ZT2wxMDdGUVZZN3ZtbWl3Vmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTYzOTM4CWZpbGU6THVnZSBEZXNrdG9wXzAuMjYuMF9hbWQ2NC5kZWIKZWJKV1g0d2NoRHppRVRxR2U5akNTQk15TmN2aGlwS3lMMzljTEZSNU80emY0YWNhRDRMRVlFdE5OSGpTeHFsbFRaSVlWN0RTejB4SXRPSmNiZXFpQ0E9PQo=",
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/desktop/Luge.Desktop_0.26.0_amd64.deb"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdVp0WEN3bUNQZ1d3TFREYVhNeS8wUDNwNkZDY0gzb3pwbWoyamI3UjBrZUFxOTc0S2dVeVE2YjBPekRoeHVSK0YyWC9ZT2wxMDdGUVZZN3ZtbWl3Vmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTYzOTM4CWZpbGU6THVnZSBEZXNrdG9wXzAuMjYuMF9hbWQ2NC5kZWIKZWJKV1g0d2NoRHppRVRxR2U5akNTQk15TmN2aGlwS3lMMzljTEZSNU80emY0YWNhRDRMRVlFdE5OSGpTeHFsbFRaSVlWN0RTejB4SXRPSmNiZXFpQ0E9PQo=",
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/desktop/Luge.Desktop_0.26.0_amd64.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaStBQUc0VWpmdWV6K0hsU3phSUlyM2UxN0cxYjZjRTFEcE1Nc3B4aS8vNGswNURXUEdLR2txSzdOMmRIcnFMUXBYeCtiUDZUZkdtRldhY2ttRWZEbXRldllCN3o5VUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTYzOTM5CWZpbGU6THVnZSBEZXNrdG9wLTAuMjYuMC0xLng4Nl82NC5ycG0KYURwbEFGdkl5czFNQndONEpxUmIvSUNyUVQrczQ1amozNTZnYUtoSi9JUE5PNmJVOUVNOXRHeC9UZTRBN0twaWtOQXJwVnZPaWx0Z0hJQTJDSHFyQVE9PQo=",
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/desktop/Luge.Desktop-0.26.0-1.x86_64.rpm"
+    }
+  }
+}
