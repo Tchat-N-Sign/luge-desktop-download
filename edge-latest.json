@@ -1,19 +1,19 @@
 {
-  "version": "0.23.0",
+  "version": "0.24.0",
   "min_version": "0.0.0",
-  "pub_date": "2026-09-17T22:42:10Z",
+  "pub_date": "2026-09-25T14:19:26Z",
   "platforms": {
     "aarch64-apple-darwin": {
-      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/edge/luge-edge-0.23.0-aarch64-apple-darwin.tar.gz",
-      "sha256": "6eaed15ad25cc767fc06052486c4936ae09bb0e2a327e1312dbe094fd524e91a"
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/edge-bridge/luge-edge-0.24.0-aarch64-apple-darwin.tar.gz",
+      "sha256": "69f4604950745664d96b0e60c0e1f186501270973c0712cc7726ba86fae0e5bd"
     },
     "x86_64-pc-windows-msvc": {
-      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/edge/luge-edge-0.23.0-x86_64-pc-windows-msvc.zip",
-      "sha256": "0e823b0cf140f99dff4b8f08523da962f33c6ead71457c083d0d16e99d9102c4"
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/edge-bridge/luge-edge-0.24.0-x86_64-pc-windows-msvc.zip",
+      "sha256": "ddf131521639163c0ae2c2c07dcb0b21335fb14014632fbadee58128bd0c7ab5"
     },
     "x86_64-unknown-linux-gnu": {
-      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/edge/luge-edge-0.23.0-x86_64-unknown-linux-gnu.tar.gz",
-      "sha256": "383eeebbc48bfecccbe33e76d11b5036abe0d6e23b6b09f226a7b4069038e2ff"
+      "url": "https://tchat-n-sign.github.io/luge-desktop-download/releases/edge-bridge/luge-edge-0.24.0-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "7f337a85fb1289d1123dfeda2aeb4ac39b97576b2df4bfa28b575f8903476b79"
     }
   }
 }
